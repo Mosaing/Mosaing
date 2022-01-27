@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mosaing
 - 👀 I’m interested in Java, C++, Ruby, Python, and PHP
-- 💞️ I’m looking to collaborate on all for learning purposes
 - 📫 How to reach me mainamoses24@gmail.com
 
 <!---
